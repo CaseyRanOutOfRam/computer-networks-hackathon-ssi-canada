@@ -1,0 +1,11 @@
+(0:00) The "Why"
+"Alright, so we’ve all seen boring spreadsheets of sensor data. But when you’re dealing with something like a city’s sewer system or a massive chemical tank, a spreadsheet won't save you from a flood. That’s where the Dragino DDS75-LB comes in. It’s an ultrasonic sensor that basically 'pings' surfaces to see how far away they are."
+
+(0:15) The Hardware Flex
+"This thing is a tank. It’s got a battery that lasts five years and uses LoRaWAN to send data from miles away. It even handles its own temperature math—because sound moves differently in the heat versus the cold—so the 'mm' reading it sends is actually legit."
+
+(0:30) The "Cool" Part (The Dashboard)
+"Now, look at the screen. This is TankView. Instead of just showing you a number, we built a 3D Digital Twin. As the sensor sends these 'bursts' of data, the 3D model reacts. You can literally scrub through time like a YouTube video to see exactly when the tank was filled or if there was a weird anomaly."
+
+(0:45) The Big Brain Features
+"But we went a step further. We added a Leak Detector that screams if the level drops too fast, and a Battery Death Clock. It looks at the voltage drain and tells you exactly which day in 2030 you’ll need to go out and swap the battery. It’s not just a dashboard; it’s a system that predicts the future so you don’t have to. That's TankView. Questions?"
